@@ -1,0 +1,19 @@
+<div class="sidebar">
+    <h4>Categories</h4>
+    <div class="list-group" >
+        <div class="list-group-item" *ngFor= "let category of categoryList">
+      <a  href="products/category/{{category.id}}" class="list-group-item">
+        {{ category.categoryName }}
+      </a>
+    </div>
+    </div>
+  </div>
+  <br>
+  <div class="sidebar">
+    <div class="list-group">
+      <div class="list-group-item">
+        <a href="products" class="btn btn-primary">View all products</a>
+      </div>
+    </div>
+  </div>
+  

@@ -1,0 +1,257 @@
+{
+  "products": [
+    {
+      "productId": 1,
+      "productName": "Round-neck Black",
+      "categoryId": "4",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/1.avif",
+      "price": 100,
+      "is_available": true,
+      "rating": 4,
+      "reviews": 120,
+      "vendor_name": "seller - 1",
+      "warranty": 2
+    },
+    {
+      "productId": 2,
+      "productName": "round-neck",
+      "categoryId": "4",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/2.avif",
+      "price": 120,
+      "is_available": true,
+      "rating": 4.5,
+      "reviews": 100,
+      "vendor_name": "seller - 2",
+      "warranty": 1
+    },
+    {
+      "productId": 3,
+      "productName": "Polo Orangr & Black",
+      "categoryId": "1",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/3.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 4,
+      "productName": "Casual white printed",
+      "categoryId": "3",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/4.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 5,
+      "productName": "Casual black printed",
+      "categoryId": "3",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/5.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 6,
+      "productName": "Casual white",
+      "categoryId": "2",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/6.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 7,
+      "productName": "White Neck",
+      "categoryId": "3",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/2.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 8,
+      "productName": "Black",
+      "categoryId": "3",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/6.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "white",
+      "warranty": 1
+    },
+    {
+      "productId": 9,
+      "productName": "Scoccer new",
+      "categoryId": "2",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/5.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 10,
+      "productName": "Scoccer with round",
+      "categoryId": "2",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/3.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 11,
+      "productName": "Full hands black",
+      "categoryId": "6",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/7.jpg",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 12,
+      "productName": "full hands green",
+      "categoryId": "6",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/8.avif",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "productId": 13,
+      "productName": "V shaped brown",
+      "categoryId": "5",
+      "description": "Product description goes here",
+      "productImg": "http://localhost:4200/assets/9.webp",
+      "price": 300,
+      "is_available": false,
+      "rating": 3.5,
+      "reviews": 10,
+      "vendor_name": "seller - 3",
+      "warranty": 1
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "productName": 234,
+      "description": "New tshirt description",
+      "rating": "1",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "Black",
+      "reviews": 3
+    },
+    {
+      "productId": 17,
+      "categoryId": "3",
+      "productName": "chandu",
+      "description": "chadu new",
+      "rating": "1",
+      "price": 444,
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "Blue",
+      "reviews": 5
+    },
+    {
+      "id": 16,
+      "categoryId": "3",
+      "productName": "round t-shirt",
+      "description": "After all new Descrption",
+      "rating": "1",
+      "price": 555,
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "Yellow",
+      "reviews": 45
+    },
+    {
+      "productId": 17,
+      "categoryId": "3",
+      "productName": "Helina T-shirt",
+      "description": "Helina description",
+      "rating": "1",
+      "price": 456,
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "mid yellow",
+      "reviews": 4,
+      "id": 17
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Polo t-shirts"
+    },
+    {
+      "id": 2,
+      "categoryName": "Scoccer t-shirts"
+    },
+    {
+      "id": 3,
+      "categoryName": "Casual t-shirts"
+    },
+    {
+      "id": 4,
+      "categoryName": "Round-neck t-shirts"
+    },
+    {
+      "id": 5,
+      "categoryName": "V-shaped t-shirts"
+    },
+    {
+      "id": 6,
+      "categoryName": "Fullhands t-shirts"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
